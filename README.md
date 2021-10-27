@@ -1,6 +1,6 @@
-# Mise en demeure de Stytch
+# Mise en demeure de Stych
 
-Stytch (ou auto-ecole.net) est une auto-école qui fait expirer ses "contrats" au bout de 12 mois.
+Stych (ou auto-ecole.net) est une auto-école qui fait expirer ses "contrats" au bout de 12 mois.
 
 Lorsque j'aurai récupéré assez d'informations, un guide de mise en demeure sera sur cette page.
 
@@ -16,7 +16,7 @@ Je mettrai ce document à jour en fonction de l'avancée de mes démarches, mais
 
 <img src="https://user-images.githubusercontent.com/13921610/139042495-72a89e36-21c4-472a-8d07-057584bcdd78.png" width="200" />
 
-**Note: la facture a été rééditée avec le nouveau branding "Stytch".**
+**Note: la facture a été rééditée avec le nouveau branding "Stych".**
 
 ## Contrat
 
